@@ -7,4 +7,5 @@
 
 ### 未来工作
 
-随着 Apple 在 iOS 14 上推出新的手部关节追踪的API，（详见https://github.com/MintJian/FingerRuler），本项目将作为原型，不再更新。后续会重写本App，本Repo仅作为存档。
+随着 Apple 在 iOS 14 上推出新的手部关节追踪的API，（详见https://github.com/MintJian/FingerRuler）
+本项目将作为原型，不再更新。后续会重写本App，本Repo仅作为存档。
